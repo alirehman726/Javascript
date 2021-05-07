@@ -1,0 +1,13 @@
+console.time('Your code time');
+console.log('Hello');
+console.log(10+10);
+console.log(12);
+console.log(true);
+console.log([10,50,12,75,96,45]);
+console.log({rehmanali:'Hello',marks: 85});
+console.table({rehmanali:'Hello',marks: 85});
+console.warn('Some waring in there');
+// console.clear();
+console.timeEnd('Your code time');
+// console.assert(200<180, 'Age > 180 is not possible');
+// console.error('This is error');
